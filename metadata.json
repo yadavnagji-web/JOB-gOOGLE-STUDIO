@@ -1,0 +1,5 @@
+{
+  "name": "RajGovJobs - Automatic Rajasthan Recruitment Portal",
+  "description": "An automated platform for Rajasthan government job alerts. It features AI-powered job notification extraction, WhatsApp alerts, and a comprehensive job search dashboard specifically for the state of Rajasthan.",
+  "requestFramePermissions": []
+}
